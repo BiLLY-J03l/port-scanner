@@ -5,6 +5,6 @@ Port Scanner with Bash
 
 -Installation:
 
-    git clone
+    git clone https://github.com/BiLLY-J03l/port-scanner.git
     chmod +x port_scanner.sh
     ./scanner.sh -h
